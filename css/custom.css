@@ -21,3 +21,11 @@
 .bg-dark {
     background-color: #0a3b5c!important;
 }
+p {
+	margin: 2px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 1em;
+}
+h5 {
+	font-size: 1.1em;
+}
