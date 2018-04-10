@@ -22,9 +22,11 @@
     background-color: #0a3b5c!important;
 }
 p {
-	margin: 2px;
+	margin: 2px 2px 10px 2px;
+	
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 1em;
+	line-height: 17px;
 }
 h5 {
 	font-size: 1.1em;
