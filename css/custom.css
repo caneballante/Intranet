@@ -1,6 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
-
+body {
+  background-image: url("../img/background-word-cloud.jpg");
+  background-repeat:repeat;
+}
 
 #bg {
   	position: fixed; 
@@ -29,4 +32,20 @@ h5 {
 
 .padding-30-all {
 	margin: 30px;
+}
+#xmasgreen{
+	margin: 20px 10px 20px 10px;
+	font-size: 1.5em;
+	text-decoration-style: wavy;
+	font-weight: 900;
+	line-height: 17px;
+	color:darkgreen;
+}
+#xmasred {
+	background-color:  #860808;
+	border-bottom-color: darkgreen;
+	border-top-color:blue;
+	border-right-color:#C639E2;
+	border-left-color:#EDC023;
+	border-width: 10px;
 }
